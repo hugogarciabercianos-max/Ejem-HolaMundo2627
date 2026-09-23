@@ -31,8 +31,8 @@ Esta modificación nos sirve para aprender MarkDown que por ejemplo los títulos
   "Edad: 20"
 }
 ```
-
-[^1]: Esto es pie de página
+Estamos en el Gregoriofer. [1^]
+[^1]: Esto es pie de página.
 
 ### Mi Título {#Hugo García}
 
