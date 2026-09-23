@@ -34,6 +34,8 @@ Esta modificación nos sirve para aprender MarkDown que por ejemplo los títulos
 
 [^1]: Esto es pie de página
 
+### Mi Título {#Hugo García}
+
 
 
 
