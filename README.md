@@ -24,6 +24,16 @@ Esta modificación nos sirve para aprender MarkDown que por ejemplo los títulos
 | ---- | ---- | ---- |
 | 1.0 | Creación del Readme | Hugo García |
 
+```
+{
+  "Nombre: Hugo"
+  "Apellidos: García Bercianos"
+  "Edad: 20"
+}
+```
+
+[^1]: Esto es pie de página
+
 
 
 
